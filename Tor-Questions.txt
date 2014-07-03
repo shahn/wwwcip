@@ -50,5 +50,18 @@ Without wanting to understate the surveillance of one of my servers I would
 like to mention that I could not find any evidence of further surveillance -
 for example of my personal laptop - in the documents made available to
 me. Of course, I can not rule out that these computers could be found in
-other parts of the extensive XKeyscore program.
-=======
+other parts of the extensive XKeyscore program.  =======
+
+Q:
+We would like to know more about a technical detail: NDR talks about
+"source code" which we do not fully comprehend. Maybe you can elaborate
+where exactly the IP address of your Tor server has shown up.
+
+A:
+The documents seen in the video report were made available to me for the
+duration of the interview. There I could see source code (actual program code in
+a programming language unknown to me, with parts of C++ included), which
+obviously represent XKeyscore plugins. This source code, which I have to rate
+as being of generally low quality (contradictory comments, data copys with
+errors, ...), indeed hardcodedly included the IP address of my server. I
+could not find any references to external configuration files.
