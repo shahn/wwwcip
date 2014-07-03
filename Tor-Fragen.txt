@@ -13,7 +13,7 @@ sind.
 UPDATE: Inzwischen trudeln die ersten verschlüsselten und/oder
 signierten E-Mails ein. Prima!
 
-F:
+F 1:
 Wie alt sind Sie, was machen Sie an der Uni, welche Berufsziele haben
 Sie?
 
@@ -21,7 +21,7 @@ A:
 Ich bin 27 Jahre alt, und studiere Informatik. Meine Ziele und weiteren
 Wünsche behalte ich für mich.
 
-F:
+F 2:
 Wenn alle Tor-Nutzer und -Interessenten als verdächtig markiert werden,
 warum sollte man Tor dann trotzdem nutzen? Können Sie meinen Lesern
 erklären, warum es sinnvoll ist, sich von diesen neuen Enthüllungen
@@ -41,7 +41,7 @@ die ausufernde Überwachung der gesamten Kommunikation nicht egal ist.
 Ich kann nur dafür werben, sich für eine freiheitliche Gesellschaft
 einzusetzen.
 
-F:
+F 3:
 Ich betreibe einen Tor-Server. Bin ich auch von Überwachung betroffen?
 
 A:
@@ -50,7 +50,7 @@ Unterstützern von Tor von XKeyscore erfasst werden, habe ich aber keine
 gesehen - die zentralen Tor Directory Authorities nehmen insofern eine
 Sonderstellung ein.
 
-F:
+F 4:
 Du bist nun neben Angela Merkel das einzig namentlich bekannte Opfer von
 NSA-Überwachung in Deutschland. Wie fühlt sich das an?
 
@@ -72,7 +72,7 @@ privaten Laptops - gefunden habe. Ausschließen, dass sich diese weiteren
 Rechner in anderen Teilen des umfangreichen XKeyscore-Programms finden,
 kann ich natürlich nicht.
 
-F:
+F 5:
 Ein technisches Detail interessiert uns noch: Der NDR spricht von
 "Quellcode", was wir nicht so richtig nachvollziehen können. Vielleicht
 können Sie uns noch einmal sagen, wo genau die IP-Adresse Ihres
@@ -88,7 +88,7 @@ muss (widersprüchliche Kommentare, Datenkopien mit Fehlern, etc) befand
 sich tatsächlich fest einkodiert die IP-Adresse meines Servers. Verweise
 auf eine externe Konfigurationsdatei habe ich keine gesehen.
 
-F:
+F 6:
 In den Augen des Geheimdienstes bist du offenbar ein "Extremist" - nur,
 weil Du deine Privatsphäre und die anderer schützen möchtest. Wie geht
 es Dir damit?
@@ -99,7 +99,7 @@ gleichwohl sind Menschen betroffen, die wie ich daran arbeiten, der Welt
 ein Stück Freiheit im Internet zurückzugeben. Privatsphäre ist
 Grundrecht, kein verschrobenes Ziel sogenannter Extremisten.
 
-F:
+F 7:
 Ich würde Ihnen daher gerne eine Unterstützung für Ihre Arbeit zukommen
 lassen.
 
@@ -110,7 +110,7 @@ Sie einen Server, sprechen Sie mit Ihrem Umfeld über Sicherheit und
 Datenschutz im täglichen Leben. Halten Sie das Thema über den heutigen
 Tag oder die nächsten Wochen hinaus am Leben.
 
-F:
+F 8:
 Hast Du damit gerechnet, dass die NSA an deinen Daten und Informationen
 interessiert sein könnte?
 
@@ -122,7 +122,7 @@ soweit gehen könnte, die Server der Betreiber verdachtsunabhängig zu
 überwachen, ist eine Qualität mit der man nicht unbedingt rechnen
 konnte.
 
-F:
+F 9:
 Welche persönliche Konsequenzen ziehst du daraus, im Visier der NSA zu
 sein?
 
@@ -131,7 +131,7 @@ Ich fühle mich bestätigt auf meinem Weg. Nur durch aktives Handeln lässt
 sich unsere Demokratie langfristig verteidigen, Demokratie braucht
 Privatsphäre und Sicherheit in der Kommunikation.
 
-F:
+F 10:
 Wo hast Du den Server für das Tor-Netzwerk betrieben? Die Tagesschau
 schreibt, der Server lief über die IP-Adresse 212.212.245.170 - die
 wiederum ins Industriegebiet Nürnberg-Feucht führt.
@@ -148,7 +148,7 @@ diesem Grund ist er auch eines der lohnenswertesten Ziele. Meine
 Aktivitäten im Tor-Netzwerk werde ich selbstverständlich fortsetzen, und
 ich werde weiterhin dafür werben, dass andere es mir gleich tun.
 
-F:
+F 11:
 Ich habe beim Lesen der Berichte in den Medien vor allem darüber
 gestaunt, wie der NDR über kryptische Daten auf Ihren Rechner und damit
 Ihren Namen kam. Das würde ja im Klartext bedeuten, dass Daten, die von
@@ -163,7 +163,7 @@ IP-Adresse auf mich zu schließen. Dem NDR wurden Dokumente zugespielt,
 die mir vorgelegt wurden. Ich selbst habe mich zu keinem Zeitpunkt
 selbst an die Medien gewandt.
 
-F:
+F 12:
 Haben Sie als Experte eine Ahnung davon, wie groß der
 Eisberg unter dieser Spitze ist, sprich, wie viel vom Datenverkehr
 ausgespäht wird?
@@ -173,7 +173,7 @@ Nein, ich habe keinen weiteren Einblick. Da allerdings sogar die Inhalte
 von E-Mails analysiert werden, muss von einer fast vollumfänglichen
 Überwachung ausgegangen werden.
 
-F:
+F 13:
 Haben Sie die Authentizität der Dokumente überprüfen können, die NDR /
 WDR Ihnen gezeigt haben?
 
@@ -183,7 +183,7 @@ Daten/Zeilennummerierungen und passen in das Schema der bisher
 veröffentlichten Daten. Ich kenne die Quelle nicht, und möchte auch
 keine Mutmaßungen diesbezüglich anstellen.
 
-F:
+F 14:
 Ich nehme an, dass Sie nicht an einer Personalisierung interessiert
 sind. Wenn das stimmt, wäre es großartig, wenn Sie kurz schreiben
 könnten, wieso?
@@ -195,14 +195,14 @@ worden, und betreibe meinen Tor-Server in aller Öffentlichkeit. Die
 sondern die gesamte Gesellschaft in Deutschland und darüber hinaus. Sich
 auf eine einzelne Person zu fokussieren geht am Problem vorbei.
 
-F:
+F 15:
 Ich nehme an, dass es kein "Snowden-Dokument" ist.
 
 A:
 Ich habe auf die Frage, ob es ein Dokument aus dem Snowden-Fundus
 ist, keine Antwort erhalten. Ich möchte keine Vermutung aussprechen.
 
-F:
+F 16:
 Was ich mit der ersten Frage gemeint habe, war, dass sicherlich viele
 Anfragen kommen (oder kommen werden), die  - etwas überspitzt
 ausgedrückt - danach fragen,  ob und wieviel Club-Mate sie trinken, wo
@@ -216,7 +216,7 @@ Nein, Sie sind eigentlich der einzige, der bisher gefragt hat. Sie haben
 allerdings Recht mit der Annahme, dass ich zu persönlichen Dingen keine
 Stellung beziehen werde.
 
-F:
+F 17:
 Wie sind Sie zum Tor-Projekt gekommen?
 
 A:
@@ -228,14 +228,14 @@ mit meinen Programmierkenntnissen einbringen und sie dort ausbauen. Bis
 heute engagiere ich mich über das bloße Betreiben eines Servers hinaus
 im Projekt.
 
-F:
+F 18:
 Wann und wie haben Sie erfahren, dass Sie ins Fadenkreuz der NSA geraten
 sind?
 
 A:
 Bei der Aufzeichnung des Video-Interviews (12.6.2014).
 
-F:
+F 19:
 Haben Sie bereits persönlich Auswirkungen der Ausspähung zu spüren
 bekommen? Können Sie noch uneingeschränkt arbeiten oder reisen, z.B. in
 die USA?
@@ -245,7 +245,7 @@ Ich habe bislang keinerlei Einschränkungen erfahren, bin allerdings seit
 Längerem nicht mehr in die USA eingereist. Ich rechne nicht mit
 Problemen.
 
-F:
+F 20:
 Welches sind die effektivsten technischen Möglichkeiten, sich vor dieser
 gezielten Spionage zu schützen?
 
@@ -255,7 +255,7 @@ Verfügung steht. Viel wichtiger wäre allerdings ein gemeinsames
 gesellschaftliches Bewusstsein für die Problematik, und ein
 individuelles Verhalten, was dem Rechnung trägt.
 
-F:
+F 21:
 Würde die Mehrzahl der Internet-Nutzer das Tor-Netzwerk oder andere
 nutzen, könnte die NSA dann die Masse der auszuwertenden Verbindungen
 noch bewältigen?
