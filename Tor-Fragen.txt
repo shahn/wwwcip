@@ -1,0 +1,267 @@
+Hier dokumentiere ich einige Fragen, die ich von Menschen im Bezug auf
+die NSA-Überwachung meines Tor-Servers erhalten habe.
+
+Vorweg: Ich bin überrascht davon, dass bisher am heutigen Tag kein
+einziger Journalist, der sich bei mir gemeldet hat, selbst irgendwelche
+Verfahren einsetzt um die Integrität und Vetraulichkeit seiner
+Kommunikation zu garantieren.  Bitte überlegt euch, ob Verschlüsselungs-
+und Signaturtechnologien nicht auch für euren Arbeitsalltag wichtig
+sind.
+
+UPDATE: Inzwischen trudeln die ersten verschlüsselten und/oder
+signierten E-Mails ein. Prima!
+
+F:
+Wie alt sind Sie, was machen Sie an der Uni, welche Berufsziele haben
+Sie?
+
+A:
+Ich bin 27 Jahre alt, und studiere Informatik. Meine Ziele und weiteren
+Wünsche behalte ich für mich.
+
+F:
+Wenn alle Tor-Nutzer und -Interessenten als verdächtig markiert werden,
+warum sollte man Tor dann trotzdem nutzen? Können Sie meinen Lesern
+erklären, warum es sinnvoll ist, sich von diesen neuen Enthüllungen
+nicht einschüchtern zu lassen?
+
+A:
+Die Daten, die ich einsehen konnte, zeigen, wie umfassend die
+Datenabgreiferei ist. Durch XKeyscore und verwandte Programme entgeht
+man der Überwachung nicht einfach dadurch, dass man Tor nicht verwendet
+- im Gegenteil, statt der Information "Herr Maier benutzt gerade Tor"
+und "ein Tor-User schaut gerade ein Youtube-Video" erhält ein
+Geheimdienst direkt die Information "Herr Maier schaut gerade ein
+Youtube-Video".
+
+Jeder Tor-Nutzer sendet ein starkes Signal, dass ihm die Demokratie und
+die ausufernde Überwachung der gesamten Kommunikation nicht egal ist.
+Ich kann nur dafür werben, sich für eine freiheitliche Gesellschaft
+einzusetzen.
+
+F:
+Ich betreibe einen Tor-Server. Bin ich auch von Überwachung betroffen?
+
+A:
+Jeder ist von Überwachung betroffen. Beweise, dass die Relays von allen
+Unterstützern von Tor von XKeyscore erfasst werden, habe ich aber keine
+gesehen - die zentralen Tor Directory Authorities nehmen insofern eine
+Sonderstellung ein.
+
+F:
+Du bist nun neben Angela Merkel das einzig namentlich bekannte Opfer von
+NSA-Überwachung in Deutschland. Wie fühlt sich das an?
+
+A:
+Die Qualität der Ausspähung ist eine ganz andere, daher bin ich kein
+Freund von diesem Vergleich. Jeder Deutsche ist täglich von
+ungerechtfertigten Überwachungsmaßnahmen betroffen, ohne dass es bekannt
+wird. Der Einzelfall mag zwar gut für Schlagzeilen sein; die riesige
+Dimension der Überwachung und die fehlenden Schutzmaßnahmen insbesondere
+für technisch unbedarfte Menschen sind der eigentliche Skandal. Ich
+bin schockiert darüber, wie einfach Unschuldige in den Fokus der
+Überwachung geraten können, und mit welcher Selbstverständlichkeit
+die Geheimdienste vorgehen.
+
+Ohne die Überwachung eines meiner Server relativieren zu wollen möchte
+ich erwähnen, dass ich in den mir zugänglich gemachten Dokumenten keine
+Hinweise auf eine weitergehende Überwachung - beispielsweise meines
+privaten Laptops - gefunden habe. Ausschließen, dass sich diese weiteren
+Rechner in anderen Teilen des umfangreichen XKeyscore-Programms finden,
+kann ich natürlich nicht.
+
+F:
+Ein technisches Detail interessiert uns noch: Der NDR spricht von
+"Quellcode", was wir nicht so richtig nachvollziehen können. Vielleicht
+können Sie uns noch einmal sagen, wo genau die IP-Adresse Ihres
+Tor-Servers aufgetaucht ist.
+
+A:
+Die im Videobericht zu sehenden Unterlagen wurden mir für die Dauer des
+Interviews vorgelegt. Dort habe ich Quelltexte (tatsächlichen
+Programmcode in einer mir unbekannten Sprache, mit C++-Einschüben)
+gesehen, die offensichtlich XKeyscore-Plugins darstellen. In diesem
+Quelltext, dessen Qualität ich als generell minderwertig einschätzen
+muss (widersprüchliche Kommentare, Datenkopien mit Fehlern, etc) befand
+sich tatsächlich fest einkodiert die IP-Adresse meines Servers. Verweise
+auf eine externe Konfigurationsdatei habe ich keine gesehen.
+
+F:
+In den Augen des Geheimdienstes bist du offenbar ein "Extremist" - nur,
+weil Du deine Privatsphäre und die anderer schützen möchtest. Wie geht
+es Dir damit?
+
+A:
+Das Wort Extremist ist nicht direkt im Zusammenhang mit mir gefallen,
+gleichwohl sind Menschen betroffen, die wie ich daran arbeiten, der Welt
+ein Stück Freiheit im Internet zurückzugeben. Privatsphäre ist
+Grundrecht, kein verschrobenes Ziel sogenannter Extremisten.
+
+F:
+Ich würde Ihnen daher gerne eine Unterstützung für Ihre Arbeit zukommen
+lassen.
+
+A:
+Ich möchte eigentlich persönlich nicht von der Überwachung eines
+Geheimdienstes profitieren. Unterstützen Sie das Tor-Projekt, betreiben
+Sie einen Server, sprechen Sie mit Ihrem Umfeld über Sicherheit und
+Datenschutz im täglichen Leben. Halten Sie das Thema über den heutigen
+Tag oder die nächsten Wochen hinaus am Leben.
+
+F:
+Hast Du damit gerechnet, dass die NSA an deinen Daten und Informationen
+interessiert sein könnte?
+
+A:
+Es war seit den Leaks von Edward Snowden leider abzusehen, dass sich
+Geheimdienste für die Arbeit von Anonymisierungsnetzwerken
+interessieren - soviel zeigten allein die aufgetauchten Folien. Dass es
+soweit gehen könnte, die Server der Betreiber verdachtsunabhängig zu
+überwachen, ist eine Qualität mit der man nicht unbedingt rechnen
+konnte.
+
+F:
+Welche persönliche Konsequenzen ziehst du daraus, im Visier der NSA zu
+sein?
+
+A:
+Ich fühle mich bestätigt auf meinem Weg. Nur durch aktives Handeln lässt
+sich unsere Demokratie langfristig verteidigen, Demokratie braucht
+Privatsphäre und Sicherheit in der Kommunikation.
+
+F:
+Wo hast Du den Server für das Tor-Netzwerk betrieben? Die Tagesschau
+schreibt, der Server lief über die IP-Adresse 212.212.245.170 - die
+wiederum ins Industriegebiet Nürnberg-Feucht führt.
+Welche Rolle hast Du im Tor-Netzwerk gespielt? Wirst du weiterhin
+aktiv bleiben?
+
+A:
+Der Server steht in einem Rechenzentrum in Nürnberg. Wo genau der Server
+steht, ist allerdings irrelevant - Benutzer aus der ganzen Welt sind
+eingeladen, ihn dazu zu benutzen ihre persönliche Kommunikation sicherer
+zu machen. Der Server nimmt im Tor-Netzwerk eine besondere Rolle ein, er
+hilft bei der Verwaltung der mehreren tausend anderen Tor-Server. Aus
+diesem Grund ist er auch eines der lohnenswertesten Ziele. Meine
+Aktivitäten im Tor-Netzwerk werde ich selbstverständlich fortsetzen, und
+ich werde weiterhin dafür werben, dass andere es mir gleich tun.
+
+F:
+Ich habe beim Lesen der Berichte in den Medien vor allem darüber
+gestaunt, wie der NDR über kryptische Daten auf Ihren Rechner und damit
+Ihren Namen kam. Das würde ja im Klartext bedeuten, dass Daten, die von
+der NSA einmal geklaut wurden, im Prinzip frei verfügbar sind. Oder sehe
+ich das falsch, haben Sie sich selbst direkt an die Medien gewandt?
+
+A:
+Die Daten sind nicht kryptisch, sondern normale IP-Adressen - daran kann
+man einen Server im Internet einfach identifizieren. Ich verstecke mein
+Engagement für Tor nicht, und daher ist es nicht schwer von der
+IP-Adresse auf mich zu schließen. Dem NDR wurden Dokumente zugespielt,
+die mir vorgelegt wurden. Ich selbst habe mich zu keinem Zeitpunkt
+selbst an die Medien gewandt.
+
+F:
+Haben Sie als Experte eine Ahnung davon, wie groß der
+Eisberg unter dieser Spitze ist, sprich, wie viel vom Datenverkehr
+ausgespäht wird?
+
+A:
+Nein, ich habe keinen weiteren Einblick. Da allerdings sogar die Inhalte
+von E-Mails analysiert werden, muss von einer fast vollumfänglichen
+Überwachung ausgegangen werden.
+
+F:
+Haben Sie die Authentizität der Dokumente überprüfen können, die NDR /
+WDR Ihnen gezeigt haben?
+
+A:
+Nein. Die Dokumente wirkten auf mich sehr plausibel, hatten
+Daten/Zeilennummerierungen und passen in das Schema der bisher
+veröffentlichten Daten. Ich kenne die Quelle nicht, und möchte auch
+keine Mutmaßungen diesbezüglich anstellen.
+
+F:
+Ich nehme an, dass Sie nicht an einer Personalisierung interessiert
+sind. Wenn das stimmt, wäre es großartig, wenn Sie kurz schreiben
+könnten, wieso?
+
+A:
+Hier verstehe ich Ihre Frage leider nicht. Ich bin namentlich genannt
+worden, und betreibe meinen Tor-Server in aller Öffentlichkeit. Die
+Überwachung bezieht sich aber nicht nur auf mich und meine Person,
+sondern die gesamte Gesellschaft in Deutschland und darüber hinaus. Sich
+auf eine einzelne Person zu fokussieren geht am Problem vorbei.
+
+F:
+Ich nehme an, dass es kein "Snowden-Dokument" ist.
+
+A:
+Ich habe auf die Frage, ob es ein Dokument aus dem Snowden-Fundus
+ist, keine Antwort erhalten. Ich möchte keine Vermutung aussprechen.
+
+F:
+Was ich mit der ersten Frage gemeint habe, war, dass sicherlich viele
+Anfragen kommen (oder kommen werden), die  - etwas überspitzt
+ausgedrückt - danach fragen,  ob und wieviel Club-Mate sie trinken, wo
+sie Abends weggehen, etc. Also: Private Dinge, die über Ihr Engagement
+für Tor hinaus gehen. Und ich schließe aus ihrer Antwort, dass sie dazu
+nichts sagen werden, da es nicht um einzelne Personen geht, wie Sie
+schreiben?
+
+A:
+Nein, Sie sind eigentlich der einzige, der bisher gefragt hat. Sie haben
+allerdings Recht mit der Annahme, dass ich zu persönlichen Dingen keine
+Stellung beziehen werde.
+
+F:
+Wie sind Sie zum Tor-Projekt gekommen?
+
+A:
+Ich arbeite seit Anfang 2008 ehrenamtlich beim Tor-Projekt mit, da ich
+mit seinen Idealen übereinstimme und direkt helfen konnte. Ich habe eine
+sehr freundliche und hilfreiche Gemeinschaft von Menschen erlebt, denen
+Privatsphäre im Internet eine Herzensangelegenheit ist. Ich konnte mich
+mit meinen Programmierkenntnissen einbringen und sie dort ausbauen. Bis
+heute engagiere ich mich über das bloße Betreiben eines Servers hinaus
+im Projekt.
+
+F:
+Wann und wie haben Sie erfahren, dass Sie ins Fadenkreuz der NSA geraten
+sind?
+
+A:
+Bei der Aufzeichnung des Video-Interviews (12.6.2014).
+
+F:
+Haben Sie bereits persönlich Auswirkungen der Ausspähung zu spüren
+bekommen? Können Sie noch uneingeschränkt arbeiten oder reisen, z.B. in
+die USA?
+
+A:
+Ich habe bislang keinerlei Einschränkungen erfahren, bin allerdings seit
+Längerem nicht mehr in die USA eingereist. Ich rechne nicht mit
+Problemen.
+
+F:
+Welches sind die effektivsten technischen Möglichkeiten, sich vor dieser
+gezielten Spionage zu schützen?
+
+A:
+Ich betrachte Tor als die effektivste Technologie, die uns momentan zur
+Verfügung steht. Viel wichtiger wäre allerdings ein gemeinsames
+gesellschaftliches Bewusstsein für die Problematik, und ein
+individuelles Verhalten, was dem Rechnung trägt.
+
+F:
+Würde die Mehrzahl der Internet-Nutzer das Tor-Netzwerk oder andere
+nutzen, könnte die NSA dann die Masse der auszuwertenden Verbindungen
+noch bewältigen?
+
+A:
+Ich möchte nicht spekulieren, allerdings sind Verbindungsdaten
+vergleichsweise klein. Es ist davon auszugehen, dass heute bereits sehr
+viele Daten verdachtsunabhängig abgegriffen und gespeichert werden.
+Benutzten mehr Menschen Tor, wäre die Qualität der abgegriffenen Daten
+natürlich geringer.
+
