@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This file documents some frequently asked questions, which got asked in relation
 with the surveillance of my Tor-server. The version history of this file can be
 found on https://github.com/shahn/wwwcip
@@ -10,7 +11,28 @@ daily work.
 
 UPDATE: In the meantime, the first signed/encrypted emails arrive, nice!
 
+Q:
+How old are you, what do you study, which career goals do you have?
 
+A:
+I am 27 years old and I study Computer Science. I'd like to keep my goals and
+further wishes to myself.
+
+Q:
+If every person using or interested in Tor is tagged as being suspicious, why
+should you still use Tor? Can you explain to my readers why it makes sense not
+to be intimidated by these new disclosures?
+
+A:
+The data I was able to look at shows how extensive the data collection is. You
+can't escape surveillance by XKeyscore or related software by not using Tor - on
+the contrary, instead of the information "Mr Smith currently uses Tor" and "Some Tor
+user currently watches a video on Youtube", an intelligence agency directly
+receives the information "Mr Smith currently watches a video on Youtube".
+
+Every Tor user is sending a strong signal that he/she cares about democracy and
+about the monitoring of all communication which is getting out of hand.
+I can only encourage to take a stand for a free society.
 
 Q:
 I run a Tor-server. Am I subject of surveillance?
@@ -38,3 +60,31 @@ find traces of further surveillance. The documents made accessible to me,
 contain no evidence that, for example, my laptop, would be target of special
 surveillance. Though I can not say for sure, if other parts of the huge 
 XKeyscore program, could contain such evidence.
+
+
+
+Q: 
+I'd like to support your work
+
+A: 
+I don't want to take any profit from being surveillanced. If you want to help, 
+you can support the TOR-project, run your own server and talk to your 
+environment about data security and data privacy. Let this topic stay alive for 
+more than one day or a couple of weeks.
+
+Q:
+Did you expect the NSA to be interested in your personal data?
+
+A:
+After the leaks published by Edward Snowden, it was predictable, that secret 
+agencies would be interested in the work of networks which enable online 
+anonymity - at least, that's what the published documents said. Whereas it could
+not be foreseen that it would go as far as surveilling such servers, no matter 
+if they aroused further suspicion or not.
+
+Q:
+What are your personal consequences from being targeted by the NSA?
+
+A:
+I feel vindicated in my way. Only concrete actions can help us defend our 
+democracy; democracy needs privacy and security in every means of communication.
