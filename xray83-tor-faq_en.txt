@@ -1,0 +1,195 @@
+This is where I answer some of the questions I get asked on a regular basis
+regarding the NSA surveillance of my Tor server. The version history of this
+document can be found at
+https://github.com/shahn/wwwcip
+
+Firstly: I am quite astonished by the fact that not a single journalist who has
+contacted me has implemented any means to ensure the integrity and security of
+his communication. Please consider using encryption and digital signatures for
+your work.
+
+UPDATE: I am no receiving the first couple of encrypted/signed emails.
+Great!
+
+Q 1: How old are you, what are you doing at university, what are your
+professional goals?
+
+A: I am 27 and studying computer sciences. I’d like to keep my goals and
+wishes to myself.
+
+Q 2: If everyone who uses or is interested in Tor are automatically suspect, why
+should anyone still use Tor? Can you explain to my readers why it doesn't make
+sense to be intimidated by these recent discoveries?
+
+A: The data I was able to look at shows how extensive these data-grabs are.
+Because of how XKeyscore and similar software works, you can't simply evade
+surveillance by not using Tor. On the contrary. Instead of the two pieces of
+information "Mr. John Doe is currently using Tor" and "Some Tor user is
+currently watching a YouTube video" secret services will gather the single
+piece of information "Mr. John Doe is currently watching a YouTube video" if
+Tor is not used.
+
+Every Tor user sends a strong message that democracy and the proliferating
+surveillance of all communication are of great concern to him or her. I can only
+promote campaigning for a free society.
+
+Q 3: I am running a Tor server. Am I also under surveillance?
+
+A: Everyone is affected by the surveillance. However, I have yet to see
+proof that all relays by all supporters are targeted by XKeyscore — the
+central Tor Directory Authorities are therefore in a somewhat exceptional
+position.
+
+Q 4: You are the only named victim of NSA surveillance in Germany, other than
+Angela Merkel. How does that feel?
+
+A: The kind of surveillance is very different, so I am not a big fan of this
+comparison. Every German citizen is affected every day by unlawful
+surveillance without anything ever being publicized. A singled out case may be
+good for headlines but the incredible scale of surveillance and the absence of
+adequate protection mechanisms for people with little know-how is the real
+scandal here. I am shocked at how easy it is for an innocent person to
+become the focus of surveillance and at the disregard for basic human
+rights shown by secret services.
+
+Without wanting to trivialize the surveillance of my own server I would like
+to say that the documents made available to me show no evidence of further
+surveillance of my private computer or other private aspects of my life.
+However, I cannot say for certain wether these further aspects are covered by
+some other part of the extensive XKeyscore program.
+
+Q 5: One technical detail is quite interesting: The NDR (Northern German
+Radio) mentioned "source code" which we cannot quite grasp. Maybe you can
+tells us exactly where the IP address of your Tor server appeared?
+
+A: The documents shown in the segment were shown to me for the duration of the
+interview. That is where I saw source code in a programming language
+unknown to me (with bits of C++ thrown in) which seemed to be XKeyscore
+plugins. In this source code (which I consider to be of mediocre quality
+because of conflicting comments, faulty data copies, etc.) I found the hard
+coded IP address of my server. There were no traces of an external config
+file.
+
+Q 6: You seem to be an "extremist" in the eyes of the secret service — simply
+because you want to protect your privacy and the privacy of others. How do you
+feel about that?
+
+A: The word "extremist" has never been used in direct relation to me but
+people who are given this title are working, as I am, to give the world a
+little bit of their freedom on the internet back. Privacy is a basic human
+right, not the excentric goal of so called "extremists".
+
+Q 7: I would like to support your work.
+
+A: I do not want to profit personally from being under surveillance by
+secret services. Support the Tor project, run a server, talk to the people in
+your life about security and data protection in everyday life. Keep this
+topic alive beyond today or the next couple of weeks.
+
+Q 8: Did you ever anticipate that the NSA was be interested in your data and
+information?
+
+A: Since Edward Snowden's leaks it was clear that secret services would be
+interested in the work of networks like Tor which anonymize their users. This
+was made obvious by the publicized presentations. The fact that the
+surveillance would include the servers regardless of actual probable cause is
+something that could necessarily not be foreseen.
+
+Q 9: How does being a target of the NSA change your personal life?
+
+A: I feel encouraged on my path. Only through actions can we defend
+democracy in the long run. Democracy needs privacy and security in
+communication.
+
+Q 10: Where did you run the server for the Tor network? The Tagesschau writes the
+server ran with the IP-address 212.212.245.170 which leads to an industrial
+estate in Nuremberg-Feucht. What was your role in the Tor network? Are you
+going to continue being an active member?
+
+A: The server was part of a data center in Nuremberg. Where exactly it was
+located is irrelevant — users from all over the world are invited to use it for
+securing their personal communication. The server is playing an exceptional role
+in the Tor network as it helps administrating thousands of other
+Tor-servers. This makes it one of the most worthwile targets. I will of
+course continue to be an active member of the Tor network and I will keep
+advocating that others follow my example.
+
+Q 11: I was particularly surprised at how the NDR was able to find out the
+address of your server and subsequently your name from cryptic data. That
+means that all data which was stolen by the NSA end up being publicly
+available. Or am I wrong and you contacted the media yourself?
+
+A: The data was not cryptic but comprised of regular IP addresses. You can
+easily identify a server on the internet using this information. I am not
+hiding my dedication to Tor and it is not hard to find out who is behind the
+server. The NDR got hold of the documents which I was later shown. I have
+never initiated contact with the media.
+
+Q 12: As an expert, can you tell us how big the iceberg under this tip really is?
+How much of all data traffic is actually being monitored?
+
+A: No, I have no further insight. However, since the content of emails is
+being analyzed I have to assume almost complete and constant surveillance.
+
+Q 13: Have you been able to verify the authenticity of the documents presented to
+you by the NDR / WDR (Western German Radio)?
+
+A: No. The documents seemed very plausible to me, the lines were numbered and
+the fit the pattern of previously publicized documents. I do not know their
+source and would not like to speculate on it.
+
+Q 14: I am assuming that you are not interested in being singled out as a
+person. If this is true, could you briefly explain why not?
+
+A: I do not fully understand the question. My name is public, as is the fact
+that I run a Tor server. However, the surveillance is not only aimed at me
+personally but at all of society in Germany and beyond. Focussing on a
+single person is missing the point.
+
+Q 15: Am I right in thinking the documents are not "Snowden-documents"?
+
+A: My inquiries into whether the documents originated from Edward Snowden have
+not been answered. I would not like to speculate.
+
+Q 16: What I meant by me previous question: There are probably a lot of
+requests regarding your consumption of Club Mate, whether you like to go out,
+etc. In other words: private things which exceed your commitment to Tor. And
+I conclude from your answer that you will not respond to these requests
+because this is not about a single person, as you said.
+
+A: No, you are actually the first who has asked this. But you are right, I will
+not comment on personal details.
+
+Q 17: How did you start working on the Tor project?
+
+A: I have been volunteering at the Tor project since 2008 because their
+ideals were in line with mine and I could help directly. I have encountered a
+very friendly and helpful community of people who care deeply about privacy on
+the internet. I was able to contribute my knowledge of programming and
+extend it in the process. Until today I am involved in the project beyond
+simply running a server.
+
+Q 18: When and how did you discover that you were being targeted by the NSA?
+
+A: At the recording of the interview (June 6th, 2014).
+
+Q 19: Have you felt any personal consequences of the surveillance? Are you
+still able to work and travel freely, e.g. into the US?
+
+A: I have not yet encountered any limitations. I have not been to the US in
+quite some time, but I don't anticipate any problems.
+
+Q 20: What are the most effective ways to protect oneself against this
+targeted espionage?
+
+A: In my view, Tor is the most effective technology available to us at this
+point. Much more important however is a collective awareness of the problem and
+respective behavior.
+
+Q 21: If the majority of internet users employed Tor or similar networks,
+would the NSA be able to cope with the amount of connections to analyze?
+
+A: I would not like to speculate, but connection data is relatively small. It
+is safe to assume that even today a huge amount of data is collected and
+stored regardless of probable cause. The usefulness of this data would of
+course be diminished if more people used Tor.
