@@ -71,6 +71,7 @@ obviously represent XKeyscore plugins. This source code, which I have to rate
 as being of generally low quality (contradictory comments, data copys with
 errors, ...), indeed hardcodedly included the IP address of my server. I
 could not find any references to external configuration files.
+
 =======
 Q 3:
 I run a Tor-server. Am I subject of surveillance?
@@ -80,45 +81,51 @@ Everybody is affected. Evidence, that the relays of all supporters of Tor are
 monitored by XKeyscore, has not come to my knowledge - the central Tor Directory
 Authorities seam to be a special case.
 
+===
+
 Q 4:
-You are, other than Chancellor Angela Merkel, the German, who is known by
+You are, other than Chancellor Angela Merkel, the only German, who is known by
 name to be subject of the surveillance. How does that feel?
 
 A:
 It is a different level of surveillance, thus I dislike this comparison. Every
 German citizen is subject of surveillance on a daily basis, without anyone
 mentioning it. My personal case might be good for headlines; the whole
-dimension and the missing protection measures, especially for less technical
+dimension and the missing protection measures, especially for less technically
 experienced people is the real scandal. I am shocked, how easily innocent
-people can get into the focus of surveillance. Intelligence agency take that
+people can get into the focus of surveillance. Intelligence agencies take that
 for granted.
 
 Without playing down the spying on my server, I want to note, that I could not
 find traces of further surveillance. The documents made accessible to me,
 contain no evidence that, for example, my laptop, would be target of special
 surveillance. Though I can not say for sure, if other parts of the huge
-XKeyscore program, could contain such evidence.
+XKeyscore program could contain such evidence.
 
-
+===
 
 Q 7:
 I'd like to support your work
 
 A:
 I don't want to take any profit from being surveillanced. If you want to help,
-you can support the TOR-project, run your own server and talk to your
+you can support the TOR project, run your own server and talk to your
 environment about data security and data privacy. Let this topic stay alive for
 more than one day or a couple of weeks.
+
+===
 
 Q 8:
 Did you expect the NSA to be interested in your personal data?
 
 A:
-After the leaks published by Edward Snowden, it was predictable, that secret
+After the leaks published by Edward Snowden, it was predictable that secret
 agencies would be interested in the work of networks which enable online
 anonymity - at least, that's what the published documents said. Whereas it could
 not be foreseen that it would go as far as surveilling such servers, no matter
 if they aroused further suspicion or not.
+
+===
 
 Q 9:
 What are your personal consequences from being targeted by the NSA?
