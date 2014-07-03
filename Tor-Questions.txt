@@ -4,4 +4,37 @@ found on https://github.com/shahn/wwwcip
 
 First of all: I am truly surprised, that not a single journalist has contacted
 me, who has by him self proven his identity or the integrity of his
-communication.
+communication. I strongly ask you to consider the usage of electronic signatures
+and encryption technologies. Those technologies should be essential for your 
+daily work.
+
+UPDATE: In the meantime, the first signed/encrypted emails arrive, nice!
+
+
+
+Q:
+I run a Tor-server. Am I subject of surveillance?
+
+A:
+Everybody is affected. Evidence, that the relays of all supporters of Tor are 
+monitored by XKeyscore, has not come to my knowledge - the central Tor Directory
+Authorities seam to be a special case.
+
+Q: 
+You are, other than Chancellor Angela Merkel, the German, who is known by
+name to be subject of the surveillance. How does that feel?
+
+A:
+It is a different level of surveillance, thus I dislike this comparison. Every
+German citizen is subject of surveillance on a daily basis, without anyone
+mentioning it. My personal case might be good for headlines; the whole
+dimension and the missing protection measures, especially for less technical
+experienced people is the real scandal. I am shocked, how easily innocent
+people can get into the focus of surveillance. Intelligence agency take that 
+for granted.
+
+Without playing down the spying on my server, I want to note, that I could not
+find traces of further surveillance. The documents made accessible to me,
+contain no evidence that, for example, my laptop, would be target of special
+surveillance. Though I can not say for sure, if other parts of the huge 
+XKeyscore program, could contain such evidence.
