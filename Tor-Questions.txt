@@ -1,3 +1,11 @@
+This file documents some frequently asked questions, which got asked in relation
+with the surveillance of my Tor-server. The version history of this file can be
+found on https://github.com/shahn/wwwcip
+
+First of all: I am truly surprised, that not a single journalist has contacted
+me, who has by him self proven his identity or the integrity of his
+communication.
+
 Q:
 How old are you, what do you study, which career goals do you have?
 
@@ -43,3 +51,4 @@ like to mention that I could not find any evidence of further surveillance -
 for example of my personal laptop - in the documents made available to
 me. Of course, I can not rule out that these computers could be found in
 other parts of the extensive XKeyscore program.
+=======
