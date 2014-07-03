@@ -1,0 +1,54 @@
+This file documents some frequently asked questions, which got asked in relation
+with the surveillance of my Tor-server. The version history of this file can be
+found on https://github.com/shahn/wwwcip
+
+First of all: I am truly surprised, that not a single journalist has contacted
+me, who has by him self proven his identity or the integrity of his
+communication.
+
+Q:
+How old are you, what do you study, which career goals do you have?
+
+A:
+I am 27 years old and I study Computer Science. I'd like to keep my goals and
+further wishes to myself.
+
+===
+
+Q:
+If every person using or interested in Tor is tagged as being suspicious, why
+should you still use Tor? Can you explain to my readers why it makes sense not
+to be intimidated by these new disclosures?
+
+A:
+The data I was able to look at shows how extensive the data collection is. You
+can't escape surveillance by XKeyscore or related software by not using Tor - on
+the contrary, instead of the information "Mr Smith currently uses Tor" and "Some Tor
+user currently watches a video on Youtube", an intelligence agency directly
+reveices the information "Mr Smith currently watches a video on Youtube".
+
+Every Tor user is sending a strong signal that he/she cares about democracy and
+about the monitoring of all communication which is getting out of hand.
+I can only encourage to take a stand for a free society.
+
+===
+
+Q: You now are (besides Angela Merkel) the only victim of the NSA's
+surveillance program in Germany known by name. How does that feel?
+
+A:
+The level of reconnaissance is completely different, thus I do not
+like this comparison. Every person in Germany is affected by unjustified
+surveillance measures every day without this fact becoming apparent. This
+particular case might make a great headline; the enormous scope of the
+surveillance and the missing countermeasures especially for persons
+unexperienced with technology are the actual scandal. I am shocked how easily
+innocent persons can be targeted by surveillance and how intelligence
+agencies take their course of action as granted.
+
+Without wanting to understate the surveillance of one of my servers I would
+like to mention that I could not find any evidence of further surveillance -
+for example of my personal laptop - in the documents made available to
+me. Of course, I can not rule out that these computers could be found in
+other parts of the extensive XKeyscore program.
+=======
