@@ -1,5 +1,7 @@
 Hier dokumentiere ich einige Fragen, die ich von Menschen im Bezug auf
-die NSA-Überwachung meines Tor-Servers erhalten habe.
+die NSA-Überwachung meines Tor-Servers erhalten habe. Die
+Versionsgeschichte dieses Dokuments findet sich auf
+https://github.com/shahn/wwwcip
 
 Vorweg: Ich bin überrascht davon, dass bisher am heutigen Tag kein
 einziger Journalist, der sich bei mir gemeldet hat, selbst irgendwelche
