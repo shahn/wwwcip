@@ -1,5 +1,5 @@
 This is an English translation of the document at
-https://wwwcip.cs.fau.de/~snsehahn/Tor-Fragen , which should be
+https://wwwcip.cs.fau.de/~snsehahn/Tor-Fragen.txt , which should be
 considered the canonical source. I thank the translators and ask them to
 contact me if they want to be personally credited.
 
