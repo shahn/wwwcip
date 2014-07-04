@@ -205,8 +205,9 @@ I have been volunteering at the Tor project since 2008 because their
 ideals were in line with mine and I could help directly. I have
 encountered a very friendly and helpful community of people who care
 deeply about privacy on the internet. I was able to contribute my
-knowledge of programming and extend it in the process. Until today I am
-involved in the project beyond simply running a server.
+knowledge of programming and extend it in the process. Additionally,
+I've been involved with the project beyond simply running a server and
+will continue to support it.
 
 Q 18:
 When and how did you discover that you were being targeted by the NSA?
