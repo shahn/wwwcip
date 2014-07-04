@@ -267,3 +267,22 @@ viele Daten verdachtsunabhängig abgegriffen und gespeichert werden.
 Benutzten mehr Menschen Tor, wäre die Qualität der abgegriffenen Daten
 natürlich geringer.
 
+F 22:
+Was muss ich tun, um Directory Authority Operator zu werden?
+
+A:
+Leider erfüllen die dirauths im Tor-Netzwerk eigentlich keine sinnvolle
+Aufgabe, sie werden kaum dafür genutzt, Nutzer-Traffic zu anonymisieren.
+Ihre Aufgabe bezieht sich vielmehr auf das Verwalten des Netzwerks und
+das gemeinsame Erstellen der kanonischen Liste aller Tor-Relays. Daher
+wird die momentane Anzahl von 9 dirauths als guter Kompromiss zwischen
+Robustheit und Ressourcenverschwendung gesehen.
+
+Zur eigentlichen Frage: Wenn eine neue dirauth gesucht wird, werden von
+den Entwicklern von Tor langjährige und in der Community bekannte
+Einzelpersonen angesprochen, ob sie sich vorstellen könnten, eine
+dirauth zu betreiben. Der Server, der dafür ausgesucht wurde, sollte
+möglichst stabil und bei einem vertrauenswürdigen Hoster betrieben
+werden. Außerdem sollte die verfügbare Bandbreite natürlich groß genug
+sein, dass ein stetiges Wachstum des Netzwerks keine Probleme
+verursachen kann.
