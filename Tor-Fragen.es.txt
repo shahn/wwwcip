@@ -1,0 +1,262 @@
+Esta es una traducción al español del documento ubicado en
+https://wwwcip.cs.fau.de/~snsehahn/Tor-Fragen.txt , que debería ser 
+considerado como fuente canónica. Agradezco a los traductores y les pido
+que me contacten si quieren aparecer en los créditos.
+
+Este archivo documenta algunas preguntas frecuentes, las cuales han sido
+preguntadas en relación con la vigilancia de mi servidor Tor. El
+historial de versiones puede ser encontrado en 
+https://github.com/shahn/wwwcip .
+
+Primero: Estoy bastante asombrado por el hecho de que ni un solo 
+periodista que me ha contactado ha usado medio alguno para asegurar la 
+integridad y seguridad de su comunicación. Por favor, consideren usar 
+encriptación y firmas digitales para su trabajo.
+
+ACTUALIZACIÓN: Ahora estoy recibiendo el primer par de emails
+encriptados/firmados. ¡Genial!
+
+
+Q 1:
+¿Qué edad tienes, qué haces en la universidad, cuáles son tus objetivos
+profesionales?
+
+A:
+Tengo 27 años y estoy estudiando ciencias de la computación. Prefiero
+conservar mis objetivos y deseos para mí mismo.
+
+Q 2:
+Si todo aquel que use o esté interesado en Tor es automáticamente
+sospechoso, ¿por qué seguir usando Tor entonces? ¿Podrías explicar a los
+lectores porque no tiene sentido sentirse intimidado luego de los 
+recientes descubrimientos?
+
+A:
+La información que he podido examinar muestra que tan extensivas son 
+estas capturas de datos. Por como XKeyscore y otros software similares 
+funcionan, no puedes simplemente evadir ser vigilado al dejar de usar 
+Tor. Por el contrario, los dos pedazos de información  "Sr. Fulano usa 
+Tor" y "Algún usuario de Tor está viendo un vídeo de Youtube" que los 
+servicios secretos obtendrán, se convertirían en un sólo pedazo de 
+información "Sr. Fulano está viendo un vídeo de Youtube" si no se 
+utiliza Tor.
+
+Todo usuario de Tor envía un sólido mensaje que la democracia y la 
+proliferante vigilancia de todas las comunicaciones son de gran
+importancia para él o ella. Sólo puedo promover campañas por una
+sociedad libre.
+
+Q 3:
+Estoy corriendo un servidor Tor. ¿Estoy también bajo vigilancia?
+
+A:
+Todos son afectados por esta vigilancia. Sin embargo, todavía tengo que
+ver alguna prueba de que todos los relays de los partidarios se ven 
+afectados por XKeyscore — el Directorio de Autoridades (Directory 
+Authorities) de Tor está de algún modo en una posición excepcional.
+
+Q 4:
+Eres la única víctima con nombre de la vigilancia de la NSA en Alemania,
+además de Angela Merkel. ¿Cómo te hace sentir eso?
+
+A:
+El tipo de vigilancia es bastante diferente, así que no soy partidario 
+de esta comparación. Todo ciudadano Alemán se ve afectado a diario por
+vigilancia ilegal sin que se haga publicidad alguna sobre esto. Un caso
+señalado puede ser bueno para los titulares, pero la increíble escala de
+vigilancia y la ausencia de mecanismos de protección adecuados para gente
+con poco conocimiento es el escándalo real. Estoy conmocionado de qué 
+tan fácil es para una persona inocente convertirse en foco de vigilancia
+y de la indiferencia por los derechos humanos fundamentales que muestran 
+los servicios secretos.
+
+Sin querer trivializar la vigilancia de mi propio servidor, me gustaría
+decir que los documentos a los que he podido acceder no muestran 
+evidencia alguna de mayor vigilancia sobre mi computador personal u otros
+aspectos privados de mi vida. No obstante, no puedo decir con certeza
+si estos aspectos están cubiertos por otra parte del extenso programa
+XKeyscore.
+
+Q 5:
+Un detalle técnico es bastante interesante: La NDR (Radio Alemana del
+Norte) mencionó un "código fuente" que no podemos comprender del todo.
+¿Quizás puedas decirnos en qué parte la dirección IP de tu servidor Tor 
+aparece exactamente?
+
+A:
+Los documentos antes mencionados los pude ver durante la duración de la 
+entrevista. Fue allí donde vi el código fuente en un lenguaje de 
+programación desconocido para mí (con pedazos de C++ entremedio) que
+parecieron ser plugins de XKeyscore. En dicho código fuente (el cual 
+considero de calidad mediocre, por comentarios conflictivos, copias de
+datos defectuosas, etc.) encontré la dirección IP de mi servidor 
+codificada en duro (hard coded). No había rastros de algún archivo de 
+configuración externo.
+
+Q 6:
+Pareces ser un "extremista" a ojos del servicio secreto — simplemente
+porque quieres proteger tu privacidad y la privacidad de otros. ¿Cómo te
+sientes al respecto?
+
+A:
+La palabra "extremista" nunca ha sido usada en directa relación conmigo,
+pero las personas que reciben este título están trabajando, como yo, 
+para devolver al mundo un poco de su libertad en internet. La privacidad 
+es un derecho humano fundamental, no el objetivo excéntrico de los 
+llamados "extremistas".
+
+Q 7:
+Me gustaría apoyar tu trabajo.
+
+A:
+No quiero obtener ganancias personales por estar bajo la vigilancia de
+los servicios secretos. Apoya al proyecto Tor, corre un servidor, habla 
+a la gente en tu vida acerca de la seguridad y protección de los datos 
+en la vida diaria. Mantén este tema vivo más allá de hoy o las siguientes
+semanas.
+
+Q 8:
+¿Anticipaste alguna vez que la NSA estuviera interesada en tus datos e
+información?
+
+A:
+Desde los leaks de Edward Snowden era claro que los servicios secretos
+estarían interesados en el trabajo de redes como Tor que proveen 
+anonimato a sus usuarios. Esto fue hecho obvio por la presentaciones
+divulgadas. El hecho que la vigilancia incluyera los servidores 
+independientemente de alguna causa probable es algo que podría no ser 
+necesariamente previsto.
+
+Q 9:
+¿Cómo cambia tu vida personal el ser un objetivo de la NSA?
+
+A:
+Me alienta en mi camino. Sólo a través de acciones podemos defender la
+democracia en el largo plazo. La democracia necesita privacidad y 
+seguridad en las comunicaciones.
+
+Q 10:
+¿Dónde corrías el servidor para la red Tor? El Tagesschau escribe que el
+servidor estaba corriendo con la dirección IP 212.212.245.170, la cual
+lleva a una propiedad industrial en Nuremberg-Feucht. ¿Cuál era tu rol
+en la red Tor? ¿Seguirás siendo un miembro activo?
+
+A:
+El servidor era parte de un data center en Nuremberg. Donde estaba ubicado
+exactamente es irrelevante — usuarios de todo el mundo son invitados a
+usarlo para asegurar sus comunicaciones personales. El servidor está
+jugando un rol excepcional en la red Tor ya que ayuda a administrar 
+miles de otros servidores Tor. Esto lo hace uno de los objetivos de mayor 
+valor. Por supuesto que seguiré siendo un miembro activo de la red Tor y
+seguiré promoviendo que otros sigan mi ejemplo.
+
+Q 11:
+Estuve particularmente sorprendido sobre cómo la NDR pudo descubrir la
+dirección de tu servidor y posteriormente tu nombre desde datos 
+crípticos. Eso significa que toda la información que fue robada por la 
+NSA terminan siendo disponibles públicamente. ¿O estoy mal y tú 
+contactaste a los medios personalmente?
+
+A:
+Los datos no era crípticos, estaban compuestos de direcciones IP 
+normales. Se puede identificar fácilmente un servidor en internet usando
+esta información. No escondo mi dedicación a Tor y no es difícil de 
+averiguar quién está detrás del servidor. La NDR se apoderó de los 
+documentos que luego me mostraron. Nunca he iniciado contacto con los
+medios.
+
+Q 12:
+Como experto, ¿Puedes decirnos qué tan grande es realmente el iceberg 
+bajo el agua? ¿Cuánto de todo el tráfico de datos está siendo en verdad
+monitoreado?
+
+A:
+No, no tengo mayor comprensión sobre los hechos. Sin embargo, dado que
+el contenido de los emails está siendo analizado, tengo que asumir una
+vigilancia casi completa y constante.
+
+Q 13:
+¿Has podido verificar la autenticidad de los documentos presentados hacia
+ti por la NDR / WDR (Radio Alemana del Oeste)?
+
+A:
+No. Los documentos me parecieron bastante verosímiles, las líneas
+estaban enumeradas y encajaban con el patrón de documentos divulgados
+previamente. No conozco la fuente de ellos y no me gustaría especular 
+sobre el asunto.
+
+Q 14:
+Estoy asumiendo que no estás interesado en ser señalado como persona.
+Si esto es cierto, ¿puedes explicar brevemente por qué no?
+
+A:
+No entiendo completamente la pregunta. Mi nombre es público, como es el
+hecho de que corro un servidor Tor. No obstante, la vigilancia no está
+enfocada sobre mí personalmente sino sobre la sociedad Alemana y más 
+allá. Enfocarse en una sola persona es perder el punto.
+
+Q 15:
+¿Estoy en lo correcto en pensar que los documentos no son 
+"Documentos-Snowden"?
+
+A:
+Mis consultas sobre si los documentos son originarios de Edward Snowden
+no han sido respondidas. No me gustaría especular.
+
+Q 16:
+Lo que quise decir con mi pregunta anterior: Hay probablemente muchas
+peticiones con respecto a tu consumo de Club Mate, si te gusta salir, 
+etc. En otras palabras: cosas privadas que van más allá de tu compromiso
+con Tor. Y concluyo de tu respuesta que no responderás estas peticiones
+porque esto no es sobre una persona en particular, como dijiste.
+
+A:
+No, en realidad eres el primero que pregunta esto. Pero estás en lo
+correcto, no comentaré sobre detalles personales.
+
+Q 17:
+¿Cómo comenzaste a trabajar en el proyecto Tor?
+
+A:
+He sido voluntario en el proyecto Tor desde el año 2008 porque sus 
+ideales eran acordes a los míos y podía ayudar de manera directa. He
+encontrado una comunidad muy amigable y servicial de gente a la que le
+importa profundamente la privacidad en internet. Pude contribuir con mi
+conocimiento de programación y aumentarlo en el proceso. Hasta el día de
+hoy estoy involucrado en el proyecto más allá de simplemente correr un
+servidor.
+
+Q 18:
+¿Cuándo y cómo descubriste que eras un objetivo de la NSA?
+
+A:
+Al momento de grabar la entrevista (6 de Junio, 2014).
+
+Q 19:
+¿Has sentido alguna consecuencia personal de la vigilancia? ¿Aún eres
+capaz de trabajar y viajar libremente, por ejemplo, en los EEUU?
+
+A:
+Hasta el momento no me he encontrado con limitación alguna. No he 
+estado en los EEUU desde hace un tiempo, pero no anticipo ningún tipo
+de problemas.
+
+Q 20:
+¿Cuáles son las mejores maneras de protegerse ante este espionaje 
+dirigido?
+
+A:
+Bajo mi punto de vista, Tor es la tecnología disponible más efectiva por
+el momento. Mucho más importante, sin embargo, es una conciencia 
+colectiva del problema y el comportamiento respectivo.
+
+Q 21:
+Si la mayoría de los usuarios de internet usaran Tor o redes similares,
+¿sería la NSA capaz de lidiar con la cantidad de conexiones a analizar?
+
+A:
+No me gustaría especular, pero los datos de conexión son relativamente
+pequeños. Es seguro asumir que incluso hoy una gran cantidad de 
+información es recolectada y almacenada independientemente de alguna 
+causa probable. Claramente, la utilidad de esta información se vería 
+disminuida si más gente usara Tor.
