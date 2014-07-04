@@ -28,18 +28,17 @@ conservar mis objetivos y deseos para mí mismo.
 Q 2:
 Si todo aquel que use o esté interesado en Tor es automáticamente
 sospechoso, ¿por qué seguir usando Tor entonces? ¿Podrías explicar a los
-lectores porque no tiene sentido sentirse intimidado luego de los 
+lectores por qué no tiene sentido sentirse intimidado luego de los 
 recientes descubrimientos?
 
 A:
 La información que he podido examinar muestra que tan extensivas son 
 estas capturas de datos. Por como XKeyscore y otros software similares 
 funcionan, no puedes simplemente evadir ser vigilado al dejar de usar 
-Tor. Por el contrario, los dos pedazos de información  "Sr. Fulano usa 
-Tor" y "Algún usuario de Tor está viendo un vídeo de Youtube" que los 
-servicios secretos obtendrán, se convertirían en un sólo pedazo de 
-información "Sr. Fulano está viendo un vídeo de Youtube" si no se 
-utiliza Tor.
+Tor. Por el contrario, en vez de los dos pedazos de información 
+"Sr. Fulano usa Tor" y "Algún usuario de Tor está viendo un vídeo de 
+Youtube", los servicios secretos obtendrán un sólo pedazo de información 
+"Sr. Fulano está viendo un vídeo de Youtube" si no se utiliza Tor.
 
 Todo usuario de Tor envía un sólido mensaje que la democracia y la 
 proliferante vigilancia de todas las comunicaciones son de gran
