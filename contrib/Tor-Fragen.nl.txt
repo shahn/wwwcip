@@ -1,0 +1,148 @@
+Dit is een vertaling in het nederlands van 
+https://wwwcip.cs.fau.de/~snsehahn/Tor-Fragen.de.txt
+
+De DE-tekst is de oorspronkelijk versie: Alle vertalers die intussen holpen worden bedankt en mogen van zich laten horen als ze persoonlijk willen worden aangehaald.
+
+Deze tekst documenteert de meest gestelde vragen, die mij gesteld werden in relatie met de afluisterpraktijken rond mijn Tor server. Wijzigingen in de oorspronkelijke tekst kunnen worden geraadpleegd via https://github.com/shahn/wwwcip
+
+Ten eerste: Ben ik uitermate verrast dat er tot dusver qua digitale communicatie geen enkele journalist ook maar de moeite heeft gedaan om te letten op zijn integriteit en beveiliging. Overweeg dringend om encryptie en digitale handtekeningnen te gebruiken!
+
+UPDATE: Intussen ontving ik enkele versleutelde/ondertekende emails. Super!
+
+Q 1:
+Hoe oud ben je en wat studeer je aan de universiteit, wat streef je na in je studie?
+
+A:
+Ik ben 27 jaar oud en studeer computerwetenschappen. Waarom, vind ik in deze niet zo relevant.
+
+Q 2:
+Als om het even welke persoon die interesse ook maar toont in Tor automatisch als verdacht wordt aangemerkt, waarom zou ik dan Tor gebruiken? Kan je uitleggen waarom mensen zich niet moeten laten intimideren door de recente onthullingen?
+
+A:
+De gegevens die ik kon inzien, tonen aan hoe ver wordt gegaan in het afvangen van gegevens. Door XKeyscore en aanverwante programmas ontsnapt je niet meer aan surveillance door geen Tor te gebruiken. Sterker nog door TOR te gebruiken en via TOR een Youtube-video te bekijken lever je voor de veiligheidsdiensten direct de hint dat meneer zus-en-zo een youtube-video over dit-en-dat bekijkt.
+
+Iedere Tor-gebruiker zendt evenwel een heel duidelijk signaal uit dat, wat hem/haar betreft het thema democratie belangrijk is en ongebreidelde afluisterpraktijken hem niet koud laten. Zelf kan ik alleen maar mensen aansporen om voor een vrije samenleving te ijveren.
+
+Q 3:
+Als ik een Tor server draai, wordt in dan automatisch in de gaten gehouden?
+
+A:
+Iedereen wordt sowieso op een of andere manier in de gaten gehouden. Concrete bewijzen daarvoor, dat degene die een Tor relay draait door XKeyscore effectief in de gaten wordt gehouden, heb ik tot dusver niet gezien. De centrale Directory Authorities vormen daar een uitzondering op. 
+
+Q 4:
+Tot dusver ben je het enige burgerlijk gekende slachtoffer naast Angela Merkel. Hoe ga je met dat idee om
+
+A:
+De wijze waarop ik wordt bespioneerd in vergelijking met Merkel is totaal anders. Elke duitse staatsburger wordt zonder medeweten dagelijks aan deze onrechtmatige bewakingscultuur blootgesteld. Een enkel geval dat in de pers komt is aardig, maar zegt weinig tot niets over de schaal waarop deze vorm van bewaking plaatvindt en het ontbreken van adequate controlemechanismen voor gewone burgers is eigenlijk nog wel het grootste schandaal. Zelf vind ik het shockerend vast te moeten stellen dat onschuldige burgers doelwit te worden en de wijze waarop veiligheidsdiensten handelen.
+
+Zonder de bewaking van mijn server te relativeren, wil ik wel even aanhalen, dat uit beschikbare informatie voor mij niet blijkt dat ik op andere wijze persoonlijk in de gaten zou worden gehouden. Of het XKeyscore programma deze of andere servers niet in de gaten houdt kan ik niet zeggen.
+
+Q 5:
+Technisch detail: De NDR (Nord Deutsche Rundfunk) spreekt van "broncode", die niet zo eenvoudig is na te vorse. Kan je verduidelijken waar dat IP-adress van jou Tor-Server precies opdook?
+
+A:
+Het document dat in het videofragment werd getoond, is datgene dat ik tijdens het interview te zien kreeg. De bronteksten heb ik ingezien in een voor mij onbekende programeertaal met hier en daar C++-invoegingen. In deze, naar mijn inschatting tamelijk povere broncode (elkaar tegensprekende commentaren, gecopieerde gegevens met fouten) stond inderdaad het IP-address van mijn server. Verwijzingen naar andere bestanden via dat document heb ik niet gezien.
+
+Q 6:
+Volgens de NSA ben je blijkbaar een "Extremist", alleen omdat je je eigen privesfeer en die van anderen wenst te helpen beschermen. Wat doet dat met een mens?
+
+A:
+Het woord extremist heb ik nog niet concreet rond mijn persoon horen vallen, tegelijkertijd worden evenwel mensen getroffen die mensen een beetje vrijheid op het internet terugwillen schenken. Privacy is en blijft een grondrecht, geen duister nevendoel van zogenaamde extremisten.
+
+Q 7:
+Zelf zou ik graag op een of andere wijze jou engagement willen steunen.
+
+A:
+Zelf wil ik niet profiteren door de NSA of andere geheime dienste te worden bespioneerd. Steun daarentegen het Tor-project, start een relay of een exit server, en spreek met mensen die je kent over beveiliging en bewaking. Zorg dat het huidige onderwerp actueel blijft langer dan een paar weken.
+
+Q 8:
+Heb je er rekening mee gehouden dat de NSA geïnteresseerd zou zijn in jou gegevens?
+
+A:
+Sinds de Snowden-leaks is het vrij duidelijk dat geheime diensten grote interesse hebben in anonymiseringsnetwerken zoals Tor en haar gebruikers. Dat blijkt uit de gelekte presentaties.  Het feit dat de eigenaars van Tor servers zonder direct aanleiding van iets verdachts in de gaten zouden worden gehouden, is iets wat ik tot dusver niet direct voor mogelijk hield.
+
+Q 9:
+Welke conclusies trek je door persoonlijk doelwit te zijn van de NSA?
+
+A:
+In deze situatie voel ik me bevestigd in mijn engagement. Door actie te ondernemen wens ik democratie op de lange termijn te verdedigen. Privacy en veilige communicatie zijn essentiele voorwaarden in een democratisch bestel.
+
+Q 10:
+Waar draaide jou Tor-server precies? De 'ARD' wist te melden dat de server met IP-address 212.212.245.170 ergens op een industrieterrein actief is in Nüremberg-Feucht. Wat was jou rol in het Tor netwerk toentertijd? Ga je er nog mee door?
+
+A:
+De server draaide inderdaad in een datacenter in Nürnberg (https://de.wikipedia.org/wiki/N%C3%BCrnberg), waar precies doet er eigenlijk niet zoveel toe, de server was te bereiken van over de hele wereld om persoonlijke communicatie te beschermen. Ze speelde als administratieve server een uitzonderlijke rol in het Tor-netwerk, doordat ze informatie leverde over duizenden andere Tor-servers. Daarom is het tegelijk ook een makkelijk doelwit. Zelf blijf ik zondermeer actief als lid van het Tor-netwerk en ik nodig iedereen verder uit dat ook te doen.
+
+Q 11:
+Zelf was ik zeer verwonderd over het feit dat de NDR in staat is gebleken de server te vinden en jou als persoon daarachter te traceren. Dat zou betekenen dat gegevens die door de NSA zijn verzameld sowieso altijd publiekelijk beschikbaar zijn. Of is dit de verkeerde voorstelling van zaken?
+
+A:
+De gegevens waren niet geheim en hadden betrekking op een normaal IP-address. Je kan met dat adres in de hand vrij eenvoudig achterhalen waar de server staat en wie de eigenaar is. De NDR heeft de documenten doorgespeeld gekregen die ze ook aan mij hebben laten zien. Zelf heb ik nooit het contact met de media opgezocht.
+
+Q 12:
+Heeft u als expert weet van hoe groot de ijsberg onder deze tip in werkelijkheid is? Hoeveel dataverkeer wordt er eigenlijk onderschept?
+
+A:
+Nee, zelf heb ik geen idee van hoe ver het precies gaat. Maar als je weet dat zelfs e-mails al worden geanalyseerd, mag je er gerust van uitgaan dat intussen alles en iedereen volledige onder surveillance is geplaatst.
+
+Q 13:
+Heb je de authenticiteit van de documenten die de NDR/WDR (West-deutsch Rundfunk) je liet zien kunnen natrekken?
+
+A:
+Nee. De documenten komen wel zeer plausibel over, de regels waren genummerd en ze passen liggen in de dezelfde lijn van andere tot dusver gepubliceerde documenten. Wie de bron is weet ik niet en wens er verder ook niet over te speculeren.
+
+Q 14:
+Ik veronderstel dat je er niet bij gebaat bent om er in deze persoonlijk tussenuit gepikt te worden. Als dat klopt kan je dan kort omschrijven waarom dat zo is?
+
+A:
+Ik begrijp de vraag niet helemaal. Mijn naam is publiek, net als het feit dat ik in alle openlijkheid een Tor server draai. De bewaking heeft echter niet alleen betrekking op mijn persoon, maar is bij uitbreiding gericht op de hele duitse samenleving en verder. Door focussen op een persoon speciek wordt er voorbij gegaan aan het hele probleem.
+
+Q 15:
+Klopt het dat het hier geen "Snowden"-documenten betreft?
+
+A:
+Mijn navraag of de documenten via Edward Snowden in de publiciteit zijn gekomen is totdus ver onbeantwoord gebleven. Ik wens daar verder niet over te gissen.
+
+Q 16:
+Wat ik met mijn vorige vraag bedoelde: Er komen mogelijk ook vragen op je af over hoeveel Club Mate je drinkt, waar je 's-avonds uit gaat, etc. Prive-zaken dus eigenlijk, die niets te maken hebben met je Tor-engagement. En ik concludeer uit je vorige antwoord dat je je daar niet over uit wenst te laten, omdat  het niet over peroonlijkheden moet gaan.
+
+A:
+Nee, eigenlijk is dit de eerste keer dat me dat zo gevraagd wordt. Maar je hebt gelijk, ik wil geen commentaar kwijt over persooonlijke aangelegenheden.
+
+Q 17:
+Hoe ben je eigenlijk het Tor project ingerold?
+
+A:
+Sinds 2008 ben ik al actief als vrijwilliger in het Tor project, omdat de idealen die op de achtergrond spelen in lijn zijn met die van mij en ik direct kon bijspringen om te helpen. Ik ontdekte een zeer vriendelijke groep van mensen, die de privacysfeer zeer nauw aan het hart ligt. Ik heb daar mijn programmeerervaring ingebracht en verder ontwikkeld. Tot op de dag van vandaag engageer ik me daar nog steeds naast het draaien van een server alleen. 
+
+Q 18:
+Hoe en wanneer ontdekte je dat je doelwit was geworden van de NSA?
+
+A:
+Tijdens de opname van het video-interview (6 Juni, 2014)
+
+Q 19:
+Heb je intussen enige persoonlijke effecten ondervonden van de afluisterpraktijken? Kan je nog zonder problemen werken of reizen, b.v. naar de VS?
+
+A:
+Tot dusver heb ik nog geen enkele beperking ervaren, ik ben ook al geruime tijd niet meer naar de VS gereist. Ik verwacht geen problemen.
+
+Q 20:
+Wat zijn de meest effectieve technische mogelijkheden, om zich tegen dit soort gerichte spionage te beschermen?
+
+A:
+Ik zie Tor als het meest slagvaardige middel middel dat ons momenteel ter beschikking staat. Veel belangrijker is dat we ons op maatschappelijke vlak bewuster worden van de huidige problematiek en er ook naar handelen.
+
+Q 21:
+Als een groot deel van de internetgebruikers Tor zou gebruiken of gelijkaardige netwerken zou de NSA het dan kunnen slagen om al die netwerkverbindingen te analyseren?
+
+A:
+Ik kan daar slechts naar gissen. Netwerkverbindingsinformatie in de communicatie beslaat maar een fractie in termen van grootte om op te slaan. Het vermoeden bestaat dat veel gegevens zonder om het even welke verdenking, vandaag de dag worden afgevangen en opgeslagen. Als meer mensen Tor zouden gebruiken, zal de qualiteit van die gegevens daar natuurlijk onder lijden.
+
+F 22:
+Hoe kan ik ik ook Directory Authority Operator worden?
+
+A:
+Een dirauth zijn job in het Tor-netwerk is eigenlijk niet zo'n bijster zinvolle opgave, ze worden nauwelijks gebruik om gebruiker-data te anonymiseren. De taak die wordt gesteld aan een dirauth is om er voor te zorgen de lijst met alle beschikbare Tor-Relays op orde te houden. Daardoor is het huidige aantal van 9 dirauths een goede compromis tussen degelijkheid en verspilling van rekenkracht.
+
+Om op je vraag terug te komen: Als er een nieuwe dirauth wordt gezocht dan wordt door de ontwikkelaars van Tor gezocht naar mensen die al langer bekend zijn in de Community en gevraagd of ze het zouden zien zitten om een dirauth te gaan draaien. De server die daartoe wordt uitgezocht moet staan bij een betrouwbare serverhoster en voldoende bandbreedte hebben om de continue groei van netwerk het hoofd te bieden.
