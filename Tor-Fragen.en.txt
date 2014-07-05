@@ -241,3 +241,23 @@ I would not like to speculate, but connection data is relatively small.
 It is safe to assume that even today a huge amount of data is collected
 and stored regardless of probable cause. The usefulness of this data
 would of course be diminished if more people used Tor.
+
+Q 22:
+I'd like to become a Directory Authority operator. What should I do?
+
+A:
+To be honest the job a dirauth does in the Tor network is not such a
+heroic task. Their service is hardly used to anonymise users' traffic.
+The task of the dirauth is to keep the complete list of currently
+available Tor relays correctly administered. At the moment there are 9
+dirauths choosen as a compromise between robustness and unnecessary use
+of resources.
+
+To return to your actual question: When there is a need for another
+dirauth, then people long-known to the Tor-developers in the community
+are contacted on a personal basis. The server that is chosen for such a
+task should be stable and hosted by a trustworthy hosting company. The
+networkbandwith should also be acceptable to not impede the working of
+the rest of the network.
+
+
