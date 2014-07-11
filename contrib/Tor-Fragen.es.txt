@@ -1,3 +1,8 @@
+This is a translation I could not confirm myself for accuracy. Please
+take everything stated here with a grain of salt, and refer to
+https://wwwcip.cs.fau.de/~snsehahn/Tor-Fragen.txt for the official
+version.
+
 Esta es una traducción al español del documento ubicado en
 https://wwwcip.cs.fau.de/~snsehahn/Tor-Fragen.txt , que debería ser 
 considerado como fuente canónica. Agradezco a los traductores y les pido
@@ -221,9 +226,9 @@ He sido voluntario en el proyecto Tor desde el año 2008 porque sus
 ideales eran acordes a los míos y podía ayudar de manera directa. He
 encontrado una comunidad muy amigable y servicial de gente a la que le
 importa profundamente la privacidad en internet. Pude contribuir con mi
-conocimiento de programación y aumentarlo en el proceso. Hasta el día de
-hoy estoy involucrado en el proyecto más allá de simplemente correr un
-servidor.
+conocimiento de programación y aumentarlo en el proceso. Además, he
+estado involucrado con el proyecto más allá de simplemente correr un
+servidor, y seguiré apoyándolo.
 
 Q 18:
 ¿Cuándo y cómo descubriste que eras un objetivo de la NSA?
@@ -259,3 +264,22 @@ pequeños. Es seguro asumir que incluso hoy una gran cantidad de
 información es recolectada y almacenada independientemente de alguna 
 causa probable. Claramente, la utilidad de esta información se vería 
 disminuida si más gente usara Tor.
+
+Q 22:
+Me gustaría ser un Operador de Autoridad de Directorio. ¿Qué debo hacer?
+
+A:
+Para ser honesto, el trabajo que un "dirauth" hace en la red Tor no es
+una tarea tan heroica. Su servicio rara vez es utilizado para proveer
+anónimato al tráfico de usuario. La tarea de un "dirauth" es mantener la
+lista completa de Tor-Relays disponibles correctamente administrada. 
+Actualmente hay 9 "dirauths" elegidos, como un compromiso entre la 
+robustez y el uso innecesario de recursos.
+
+Volviendo a la pregunta: Cuando hay necesidad de un nuevo "dirauth",
+gente vastamente conocida por los desarrolladores de Tor en la comunidad
+son contactados personalmente. El servidor escogido para tal tarea debe
+ser estable y ser hospedado por una compañia de hosting confiable. El
+ancho de banda también debe ser aceptable para no impedir el trabajo del
+resto de la red.
+
